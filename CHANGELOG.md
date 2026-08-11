@@ -2,6 +2,19 @@
 
 <!-- <START NEW CHANGELOG ENTRY> -->
 
+## 0.16.0b6
+
+([Full Changelog](https://github.com/mfisher87/jupytergis-release-pnpm-debugging/compare/@jupytergis/base@0.16.0-beta.5))
+
+### Contributors to this release
+
+The following people contributed discussions, new ideas, code and documentation contributions, and review.
+See [our definition of contributors](https://github-activity.readthedocs.io/en/latest/use/#how-does-this-tool-define-contributions-in-the-reports).
+
+([GitHub contributors page for this release](https://github.com/mfisher87/jupytergis-release-pnpm-debugging/graphs/contributors?from=2026-07-15&to=2026-08-10&type=c))
+
+<!-- <END NEW CHANGELOG ENTRY> -->
+
 ## 0.16.0b5
 
 ([Full Changelog](https://github.com/geojupyter/jupytergis/compare/@jupytergis/base@0.16.0-beta.4...329629cec004c9cdda6bbc36a11b480a56de5e03))
@@ -23,8 +36,6 @@ See [our definition of contributors](https://github-activity.readthedocs.io/en/l
 ([GitHub contributors page for this release](https://github.com/geojupyter/jupytergis/graphs/contributors?from=2026-07-15&to=2026-07-15&type=c))
 
 @arjxn-py ([activity](https://github.com/search?q=repo%3Ageojupyter%2Fjupytergis+involves%3Aarjxn-py+updated%3A2026-07-15..2026-07-15&type=Issues)) | @gjmooney ([activity](https://github.com/search?q=repo%3Ageojupyter%2Fjupytergis+involves%3Agjmooney+updated%3A2026-07-15..2026-07-15&type=Issues)) | @martinRenou ([activity](https://github.com/search?q=repo%3Ageojupyter%2Fjupytergis+involves%3AmartinRenou+updated%3A2026-07-15..2026-07-15&type=Issues))
-
-<!-- <END NEW CHANGELOG ENTRY> -->
 
 ## 0.16.0b4
 
