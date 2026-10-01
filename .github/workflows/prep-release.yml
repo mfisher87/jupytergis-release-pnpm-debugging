@@ -35,11 +35,11 @@ jobs:
           persist-credentials: false
 
       # IMPORTANT: Depends on the checkout action above to correctly set up pnpm
-      - uses: jupyterlab/maintainer-tools/.github/actions/base-setup@94b14ddfbdd1ed651e9f9343ae2409ab5c73a6a8 # v1
+      - uses: jupyterlab/maintainer-tools/.github/actions/base-setup@21b1cac622018fd37ec13a1c8081da814e10d94e # v1
 
       - name: Prep Release
         id: prep-release
-        uses: jupyter-server/jupyter_releaser/.github/actions/prep-release@cf9c1ac90471e0978ef4d4f106b5d9b8917cb7af
+        uses: jupyter-server/jupyter_releaser/.github/actions/prep-release@70e58c50c736ad496cca11fe4f2446033b68b027
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           version_spec: ${{ github.event.inputs.version_spec }}
